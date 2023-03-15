@@ -1,5 +1,6 @@
 # Awesome Data Poisoning
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 A curated list of papers & resources linked to data poisoning.
 
 ## Papers
