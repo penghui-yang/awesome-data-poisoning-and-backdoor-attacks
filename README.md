@@ -1,24 +1,36 @@
-# Awesome Data Poisoning
+# Awesome Data Poisoning and Backdoor Attacks
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of papers & resources linked to data poisoning.
+A curated list of papers & resources linked to data poisoning, backdoor attacks and defenses against them.
 
 ## Surveys
 
 + Dataset Security for Machine Learning: Data Poisoning, Backdoor Attacks, and Defenses (TPAMI 2022) [[paper](https://ieeexplore.ieee.org/abstract/document/9743317)]
++ A Survey on Data Poisoning Attacks and Defenses (DSC 2022) [[paper](https://ieeexplore.ieee.org/abstract/document/9900151)]
 
 ## 2023
 
 + Silent Killer: Optimizing Backdoor Trigger Yields a Stealthy and Powerful Data Poisoning Attack (arXiv 2023) [[code](https://arxiv.org/abs/2301.02615)]
++ Exploring the Limits of Indiscriminate Data Poisoning Attacks (arXiv 2023) [[paper](https://arxiv.org/abs/2303.03592)]
++ Students Parrot Their Teachers: Membership Inference on Model Distillation (arXiv 2023) [[paper](https://arxiv.org/abs/2303.03446)]
++ CleanCLIP: Mitigating Data Poisoning Attacks in Multimodal Contrastive Learning (arXiv 2023) [[paper](https://arxiv.org/abs/2303.03323)]
++ More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models (arXiv 2023) [[paper](https://arxiv.org/abs/2302.12173)] [[code](https://github.com/greshake/llm-security)]
++ Feature Partition Aggregation: A Fast Certified Defense Against a Union of Sparse Adversarial Attacks (arXiv 2023) [[paper](https://arxiv.org/abs/2302.11628)] [[code](https://github.com/ZaydH/feature-partition)]
++ ASSET: Robust Backdoor Data Detection Across a Multiplicity of Deep Learning Paradigms (arXiv 2023) [[paper](https://arxiv.org/abs/2302.11408)] [[code](https://github.com/ruoxi-jia-group/ASSET)]
 + Indiscriminate Poisoning Attacks on Unsupervised Contrastive Learning (ICLR 2023) [[paper](https://openreview.net/forum?id=f0a_dWEYg-Td)]
 + Clean-image Backdoor: Attacking Multi-label Models with Poisoned Labels Only (ICLR 2023) [[paper](https://openreview.net/forum?id=rFQfjDC9Mt)]
++ TrojText: Test-time Invisible Textual Trojan Insertion (ICLR 2023) [[paper](https://openreview.net/forum?id=ja4Lpp5mqc2)] [[code](https://github.com/UCF-ML-Research/TrojText)]
++ Backdoor Defense via Deconfounded Representation Learning (CVPR 2023) [[paper](https://arxiv.org/abs/2303.06818)] [[code](https://github.com/zaixizhang/CBD)]
++ Turning Strengths into Weaknesses: A Certified Robustness Inspired Attack Framework against Graph Neural Networks (CVPR 2023) [[paper](https://arxiv.org/abs/2303.06199)]
++ CUDA: Convolution-based Unlearnable Datasets (CVPR 2023) [[paper](https://arxiv.org/abs/2303.04278)] [[code](https://github.com/vinusankars/Convolution-based-Unlearnability)]
++ Defending Against Backdoor Attacks by Layer-wise Feature Analysis (PAKDD 2023) [[paper](https://arxiv.org/abs/2302.12758)] [[code](https://github.com/NajeebJebreel/DBALFA)]
++ How to Sift Out a Clean Data Subset in the Presence of Data Poisoning? (USENIX Security, 2023) [[paper](http://arxiv.org/abs/2210.06516)]
 
 ## 2022
 
 + Transferable Unlearnable Examples (arXiv 2022) [[paper](https://arxiv.org/abs/2210.10114)]
 + Natural Backdoor Datasets (arXiv 2022) [[paper](http://arxiv.org/abs/2206.10673)]
 + Dangerous Cloaking: Natural Trigger based Backdoor Attacks on Object Detectors in the Physical World (arXiv 2022) [[paper](https://arxiv.org/abs/2201.08619)]
-+ How to Sift Out a Clean Data Subset in the Presence of Data Poisoning? (arXiv 2022) [[paper](http://arxiv.org/abs/2210.06516)]
 + Backdoor Attacks on Self-Supervised Learning (CVPR 2022) [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Saha_Backdoor_Attacks_on_Self-Supervised_Learning_CVPR_2022_paper.html)] [[code](https://github.com/UMBCvision/SSL-Backdoor)]
 + Poisons that are learned faster are more effective (CVPR 2022 Workshops) [[paper](http://arxiv.org/abs/2204.08615)]
 + Robust Unlearnable Examples: Protecting Data Privacy Against Adversarial Learning (ICLR 2022) [[paper](https://openreview.net/forum?id=baUQQPwQiAg)] [[code](https://github.com/fshp971/robust-unlearnable-examples)]
