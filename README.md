@@ -82,6 +82,6 @@ A curated list of papers & resources linked to data poisoning, backdoor attacks 
 ## 2017
 
 + BadNets: Identifying Vulnerabilities in the Machine Learning Model Supply Chain (arXiv 2017) [[paper](https://arxiv.org/abs/1708.06733)]
-+ Targeted backdoor attacks on deep learning systems using data poisoning (arXiv 2017) [[paper](https://arxiv.org/abs/1712.05526)]
 + Targeted Backdoor Attacks on Deep Learning Systems Using Data Poisoning (arXiv 2017) [[paper](https://arxiv.org/abs/1712.05526)]
++ Understanding Black-box Predictions via Influence Functions (ICML 2017) [[paper](http://proceedings.mlr.press/v70/koh17a?ref=https://githubhelp.com)] [[code](https://github.com/kohpangwei/influence-release)]
 + Certified Defenses for Data Poisoning Attacks (NeurIPS 2017) [[paper](https://arxiv.org/abs/1706.03691)]
