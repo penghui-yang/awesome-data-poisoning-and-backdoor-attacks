@@ -1,6 +1,8 @@
 # Awesome Data Poisoning and Backdoor Attacks
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+> Disclaimer: This repository may not include all relevant papers in this area. Use at your own discretion and please contribute any missing or overlooked papers via pull request.
+
 A curated list of papers & resources linked to data poisoning, backdoor attacks and defenses against them.
 
 ## Surveys
@@ -52,6 +54,8 @@ A curated list of papers & resources linked to data poisoning, backdoor attacks 
 + Backdoor Defense via Deconfounded Representation Learning (CVPR 2023) [[paper](https://arxiv.org/abs/2303.06818)] [[code](https://github.com/zaixizhang/CBD)]
 + Turning Strengths into Weaknesses: A Certified Robustness Inspired Attack Framework against Graph Neural Networks (CVPR 2023) [[paper](https://arxiv.org/abs/2303.06199)]
 + CUDA: Convolution-based Unlearnable Datasets (CVPR 2023) [[paper](https://arxiv.org/abs/2303.04278)] [[code](https://github.com/vinusankars/Convolution-based-Unlearnability)]
++ Backdoor Attacks Against Deep Image Compression via Adaptive Frequency Trigger (CVPR 2023) [[paper](https://arxiv.org/abs/2302.14677)]
++ Single Image Backdoor Inversion via Robust Smoothed Classifiers (CVPR 2023) [[paper](https://arxiv.org/abs/2303.00215)] [[code](https://github.com/locuslab/smoothinv)]
 + Defending Against Backdoor Attacks by Layer-wise Feature Analysis (PAKDD 2023) [[paper](https://arxiv.org/abs/2302.12758)] [[code](https://github.com/NajeebJebreel/DBALFA)]
 + How to Sift Out a Clean Data Subset in the Presence of Data Poisoning? (USENIX Security, 2023) [[paper](http://arxiv.org/abs/2210.06516)]
 
@@ -78,6 +82,7 @@ A curated list of papers & resources linked to data poisoning, backdoor attacks 
 + Just How Toxic is Data Poisoning? A Unified Benchmark for Backdoor and Data Poisoning Attacks (ICML 2021) [[paper](https://arxiv.org/pdf/2006.12557)] [[code](https://github.com/aks2203/poisoning-benchmark)]
 + Neural Tangent Generalization Attacks (ICML 2021) [[paper](https://proceedings.mlr.press/v139/yuan21b.html)]
 + SPECTRE: Defending Against Backdoor Attacks Using Robust Covariance Estimation (ICML 2021) [[paper](https://proceedings.mlr.press/v139/hayase21a.html)]
++ Adversarial Examples Make Strong Poisons (NeurIPS 2021) [[paper](https://proceedings.neurips.cc/paper/2021/hash/fe87435d12ef7642af67d9bc82a8b3cd-Abstract.html)]
 + Strong Data Augmentation Sanitizes Poisoning and Backdoor Attacks Without an Accuracy Tradeoff (ICASSP 2021) [[paper](https://ieeexplore.ieee.org/abstract/document/9414862)]
 
 ## 2020
