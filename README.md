@@ -27,9 +27,6 @@ A curated list of papers & resources linked to data poisoning, backdoor attacks 
 + A Systematic Evaluation of Backdoor Trigger Characteristics in Image Classification (arXiv 2023) [[paper](http://arxiv.org/abs/2302.01740)]
 </details>
 
-<details>
-<summary>ICLR</summary>
-
 + Indiscriminate Poisoning Attacks on Unsupervised Contrastive Learning (ICLR 2023) [[paper](https://openreview.net/forum?id=f0a_dWEYg-Td)]
 + Clean-image Backdoor: Attacking Multi-label Models with Poisoned Labels Only (ICLR 2023) [[paper](https://openreview.net/forum?id=rFQfjDC9Mt)]
 + TrojText: Test-time Invisible Textual Trojan Insertion (ICLR 2023) [[paper](https://openreview.net/forum?id=ja4Lpp5mqc2)] [[code](https://github.com/UCF-ML-Research/TrojText)]
@@ -48,9 +45,6 @@ A curated list of papers & resources linked to data poisoning, backdoor attacks 
 + Distilling Cognitive Backdoor Patterns within an Image (ICLR 2023) [[paper](https://openreview.net/forum?id=S3D9NLzjnQ5)] [[code](https://github.com/HanxunH/CognitiveDistillation)]
 + FLIP: A Provable Defense Framework for Backdoor Mitigation in Federated Learning (ICLR 2023) [[paper](https://openreview.net/forum?id=Xo2E217_M4n)] [[code](https://github.com/KaiyuanZh/FLIP)]
 + UNICORN: A Unified Backdoor Trigger Inversion Framework (ICLR 2023) [[paper](https://openreview.net/forum?id=Mj7K4lglGyj)] [[code](https://github.com/RU-System-Software-and-Security/UNICORN)]
-
-</details>
-
 + Backdoor Defense via Deconfounded Representation Learning (CVPR 2023) [[paper](https://arxiv.org/abs/2303.06818)] [[code](https://github.com/zaixizhang/CBD)]
 + Turning Strengths into Weaknesses: A Certified Robustness Inspired Attack Framework against Graph Neural Networks (CVPR 2023) [[paper](https://arxiv.org/abs/2303.06199)]
 + CUDA: Convolution-based Unlearnable Datasets (CVPR 2023) [[paper](https://arxiv.org/abs/2303.04278)] [[code](https://github.com/vinusankars/Convolution-based-Unlearnability)]
@@ -67,8 +61,11 @@ A curated list of papers & resources linked to data poisoning, backdoor attacks 
 + Backdoor Attacks on Self-Supervised Learning (CVPR 2022) [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Saha_Backdoor_Attacks_on_Self-Supervised_Learning_CVPR_2022_paper.html)] [[code](https://github.com/UMBCvision/SSL-Backdoor)]
 + Poisons that are learned faster are more effective (CVPR 2022 Workshops) [[paper](http://arxiv.org/abs/2204.08615)]
 + Robust Unlearnable Examples: Protecting Data Privacy Against Adversarial Learning (ICLR 2022) [[paper](https://openreview.net/forum?id=baUQQPwQiAg)] [[code](https://github.com/fshp971/robust-unlearnable-examples)]
++ Adversarial Unlearning of Backdoors via Implicit Hypergradient (ICLR 2022) [[paper](https://openreview.net/forum?id=MeeQkFYVbzW)] [[code](https://github.com/YiZeng623/I-BAU)]
 + Not All Poisons are Created Equal: Robust Training against Data Poisoning (ICML 2022) [[paper](https://proceedings.mlr.press/v162/yang22j.html)] [[code](https://github.com/YuYang0901/EPIC)]
 + Sleeper Agent: Scalable Hidden Trigger Backdoors for Neural Networks Trained from Scratch (NeurIPS 2022) [[paper](http://arxiv.org/abs/2106.08970)] [[code](https://github.com/hsouri/Sleeper-Agent)]
++ Hidden Poison: Machine unlearning enables camouflaged poisoning attacks (NeurIPS 2022 Workshop MLSW) [[paper](https://openreview.net/forum?id=zml9gDnulI9)]
++ Hard to Forget: Poisoning Attacks on Certified Machine Unlearning (AAAI 2022) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20736)] [[code](https://github.com/ngmarchant/attack-unlearning)]
 + PoisonedEncoder: Poisoning the Unlabeled Pre-training Data in Contrastive Learning (USENIX 2022) [[paper](http://arxiv.org/abs/2205.06401)]
 + Planting Undetectable Backdoors in Machine Learning Models (FOCS 2022) [[paper](https://ieeexplore.ieee.org/abstract/document/9996741)]
 
@@ -83,6 +80,7 @@ A curated list of papers & resources linked to data poisoning, backdoor attacks 
 + Neural Tangent Generalization Attacks (ICML 2021) [[paper](https://proceedings.mlr.press/v139/yuan21b.html)]
 + SPECTRE: Defending Against Backdoor Attacks Using Robust Covariance Estimation (ICML 2021) [[paper](https://proceedings.mlr.press/v139/hayase21a.html)]
 + Adversarial Examples Make Strong Poisons (NeurIPS 2021) [[paper](https://proceedings.neurips.cc/paper/2021/hash/fe87435d12ef7642af67d9bc82a8b3cd-Abstract.html)]
++ Anti-Backdoor Learning: Training Clean Models on Poisoned Data (NeurIPS 2021) [[paper](https://proceedings.neurips.cc/paper/2021/hash/7d38b1e9bd793d3f45e0e212a729a93c-Abstract.html)] [[code](https://github.com/bboylyg/ABL)]
 + Strong Data Augmentation Sanitizes Poisoning and Backdoor Attacks Without an Accuracy Tradeoff (ICASSP 2021) [[paper](https://ieeexplore.ieee.org/abstract/document/9414862)]
 
 ## 2020
