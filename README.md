@@ -51,7 +51,7 @@ A curated list of papers & resources linked to data poisoning, backdoor attacks 
 + Backdoor Attacks Against Deep Image Compression via Adaptive Frequency Trigger (CVPR 2023) [[paper](https://arxiv.org/abs/2302.14677)]
 + Single Image Backdoor Inversion via Robust Smoothed Classifiers (CVPR 2023) [[paper](https://arxiv.org/abs/2303.00215)] [[code](https://github.com/locuslab/smoothinv)]
 + Defending Against Backdoor Attacks by Layer-wise Feature Analysis (PAKDD 2023) [[paper](https://arxiv.org/abs/2302.12758)] [[code](https://github.com/NajeebJebreel/DBALFA)]
-+ How to Sift Out a Clean Data Subset in the Presence of Data Poisoning? (USENIX Security, 2023) [[paper](http://arxiv.org/abs/2210.06516)]
++ How to Sift Out a Clean Data Subset in the Presence of Data Poisoning? (USENIX Security, 2023) [[paper](http://arxiv.org/abs/2210.06516)] [[code](https://github.com/ruoxi-jia-group/Meta-Sift)]
 
 ## 2022
 
@@ -76,11 +76,13 @@ A curated list of papers & resources linked to data poisoning, backdoor attacks 
 + Witches' Brew: Industrial Scale Data Poisoning via Gradient Matching (ICLR 2021) [[paper](https://arxiv.org/abs/2009.02276)] [[code](https://github.com/JonasGeiping/poisoning-gradient-matching)]
 + Unlearnable Examples: Making Personal Data Unexploitable (ICLR 2021) [[paper](https://arxiv.org/abs/2101.04898)] [[code](https://github.com/HanxunH/Unlearnable-Examples)]
 + Neural Attention Distillation: Erasing Backdoor Triggers from Deep Neural Networks (ICLR 2021) [[paper](http://arxiv.org/abs/2101.05930)] [[code](https://github.com/akshaymehra24/PoisoningCertifiedDefenses)]
++ What Doesn't Kill You Makes You Robust(er): How to Adversarially Train against Data Poisoning (ICLR 2021 Workshop) [[paper](https://arxiv.org/abs/2102.13624)]
 + Just How Toxic is Data Poisoning? A Unified Benchmark for Backdoor and Data Poisoning Attacks (ICML 2021) [[paper](https://arxiv.org/pdf/2006.12557)] [[code](https://github.com/aks2203/poisoning-benchmark)]
 + Neural Tangent Generalization Attacks (ICML 2021) [[paper](https://proceedings.mlr.press/v139/yuan21b.html)]
 + SPECTRE: Defending Against Backdoor Attacks Using Robust Covariance Estimation (ICML 2021) [[paper](https://proceedings.mlr.press/v139/hayase21a.html)]
 + Adversarial Examples Make Strong Poisons (NeurIPS 2021) [[paper](https://proceedings.neurips.cc/paper/2021/hash/fe87435d12ef7642af67d9bc82a8b3cd-Abstract.html)]
 + Anti-Backdoor Learning: Training Clean Models on Poisoned Data (NeurIPS 2021) [[paper](https://proceedings.neurips.cc/paper/2021/hash/7d38b1e9bd793d3f45e0e212a729a93c-Abstract.html)] [[code](https://github.com/bboylyg/ABL)]
++ Rethinking the Backdoor Attacks' Triggers: A Frequency Perspective [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Zeng_Rethinking_the_Backdoor_Attacks_Triggers_A_Frequency_Perspective_ICCV_2021_paper.html)] [[code](https://github.com/YiZeng623/frequency-backdoor)]
 + Strong Data Augmentation Sanitizes Poisoning and Backdoor Attacks Without an Accuracy Tradeoff (ICASSP 2021) [[paper](https://ieeexplore.ieee.org/abstract/document/9414862)]
 
 ## 2020
@@ -88,6 +90,7 @@ A curated list of papers & resources linked to data poisoning, backdoor attacks 
 + Invisible backdoor attacks on deep neural networks via steganography and regularization (TDSC 2020) [[paper](https://ieeexplore.ieee.org/abstract/document/9186317)]
 + Backdooring and poisoning neural networks with image-scaling attacks (arXiv 2020) [[paper](https://arxiv.org/abs/2003.08633)]
 + MetaPoison: Practical General-purpose Clean-label Data Poisoning (NeurIPS 2020) [[paper](https://arxiv.org/abs/2004.00225)]
++ Input-Aware Dynamic Backdoor Attack (NeurIPS 2020) [[paper](https://proceedings.neurips.cc/paper/2020/hash/234e691320c0ad5b45ee3c96d0d7b8f8-Abstract.html)] [[code](https://github.com/VinAIResearch/input-aware-backdoor-attack-release)]
 + How To Backdoor Federated Learning (AISTATS 2020) [[paper](https://proceedings.mlr.press/v108/bagdasaryan20a.html)]
 + Reflection backdoor: A natural backdoor attack on deep neural networks (ECCV 2020) [[paper](https://arxiv.org/abs/2007.02343)]
 + Radioactive data: tracing through training (ICML 2020) [[paper](https://arxiv.org/abs/2002.00937)]
@@ -111,6 +114,7 @@ A curated list of papers & resources linked to data poisoning, backdoor attacks 
 + Spectral Signatures in Backdoor Attacks (NeurIPS 2018) [[paper](https://proceedings.neurips.cc/paper/2018/hash/280cf18baf4311c92aa5a042336587d3-Abstract.html)]
 + Poison Frogs! Targeted Clean-Label Poisoning Attacks on Neural Networks (NeurIPS 2018) [[paper](https://arxiv.org/abs/1804.00792)]
 + Using Trusted Data to Train Deep Networks on Labels Corrupted by Severe Noise (NeurIPS 2018) [[paper](https://arxiv.org/abs/1802.05300)]
++ Trojaning Attack on Neural Networks (NDSS 2018) [[paper](https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_03A-5_Liu_paper.pdf)] 
 
 ## 2017
 
