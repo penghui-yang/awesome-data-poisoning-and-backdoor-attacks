@@ -50,6 +50,7 @@ A curated list of papers & resources linked to data poisoning, backdoor attacks 
 + CUDA: Convolution-based Unlearnable Datasets (CVPR 2023) [[paper](https://arxiv.org/abs/2303.04278)] [[code](https://github.com/vinusankars/Convolution-based-Unlearnability)]
 + Backdoor Attacks Against Deep Image Compression via Adaptive Frequency Trigger (CVPR 2023) [[paper](https://arxiv.org/abs/2302.14677)]
 + Single Image Backdoor Inversion via Robust Smoothed Classifiers (CVPR 2023) [[paper](https://arxiv.org/abs/2303.00215)] [[code](https://github.com/locuslab/smoothinv)]
++ Unlearnable Clusters: Towards Label-agnostic Unlearnable Examples (CVPR 2023) [[paper](https://arxiv.org/abs/2301.01217)] [[code](https://github.com/jiamingzhang94/Unlearnable-Clusters)]
 + Defending Against Backdoor Attacks by Layer-wise Feature Analysis (PAKDD 2023) [[paper](https://arxiv.org/abs/2302.12758)] [[code](https://github.com/NajeebJebreel/DBALFA)]
 + How to Sift Out a Clean Data Subset in the Presence of Data Poisoning? (USENIX Security, 2023) [[paper](http://arxiv.org/abs/2210.06516)] [[code](https://github.com/ruoxi-jia-group/Meta-Sift)]
 
