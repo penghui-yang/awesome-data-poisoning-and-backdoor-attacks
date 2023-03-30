@@ -25,6 +25,11 @@ A curated list of papers & resources linked to data poisoning, backdoor attacks 
 + Temporal Robustness against Data Poisoning (arXiv 2023) [[paper](https://arxiv.org/abs/2302.03684)]
 + Run-Off Election: Improved Provable Defense against Data Poisoning Attacks (arXiv 2023) [[paper](http://arxiv.org/abs/2302.02300)]
 + A Systematic Evaluation of Backdoor Trigger Characteristics in Image Classification (arXiv 2023) [[paper](http://arxiv.org/abs/2302.01740)]
++ Learning the Unlearnable: Adversarial Augmentations Suppress Unlearnable Example Attacks (arXiv 2023) [[paper](https://arxiv.org/abs/2303.15127)] [[code](https://github.com/lafeat/ueraser)]
++ Backdoor Attacks with Input-unique Triggers in NLP (arXiv 2023) [[paper](https://arxiv.org/abs/2303.14325)]
++ Do Backdoors Assist Membership Inference Attacks? (arXiv 2023) [[paper](https://arxiv.org/abs/2303.12589)]
++ Black-box Backdoor Defense via Zero-shot Image Purification (arXiv 2023) [[paper](https://arxiv.org/abs/2303.12175)]
++ Influencer Backdoor Attack on Semantic Segmentation (arXiv 2023) [[paper](https://arxiv.org/abs/2303.12054)]
 </details>
 
 + Indiscriminate Poisoning Attacks on Unsupervised Contrastive Learning (ICLR 2023) [[paper](https://openreview.net/forum?id=f0a_dWEYg-Td)]
@@ -51,8 +56,11 @@ A curated list of papers & resources linked to data poisoning, backdoor attacks 
 + Backdoor Attacks Against Deep Image Compression via Adaptive Frequency Trigger (CVPR 2023) [[paper](https://arxiv.org/abs/2302.14677)]
 + Single Image Backdoor Inversion via Robust Smoothed Classifiers (CVPR 2023) [[paper](https://arxiv.org/abs/2303.00215)] [[code](https://github.com/locuslab/smoothinv)]
 + Unlearnable Clusters: Towards Label-agnostic Unlearnable Examples (CVPR 2023) [[paper](https://arxiv.org/abs/2301.01217)] [[code](https://github.com/jiamingzhang94/Unlearnable-Clusters)]
++ Backdoor Defense via Adaptively Splitting Poisoned Dataset (CVPR 2023) [[paper](https://arxiv.org/abs/2303.12993)] [[code](https://github.com/KuofengGao/ASD)]
++ Don't FREAK Out: A Frequency-Inspired Approach to Detecting Backdoor Poisoned Samples in DNNs (CVPRW 2023) [[paper](https://arxiv.org/abs/2303.13211)]
 + Defending Against Backdoor Attacks by Layer-wise Feature Analysis (PAKDD 2023) [[paper](https://arxiv.org/abs/2302.12758)] [[code](https://github.com/NajeebJebreel/DBALFA)]
-+ How to Sift Out a Clean Data Subset in the Presence of Data Poisoning? (USENIX, 2023) [[paper](http://arxiv.org/abs/2210.06516)] [[code](https://github.com/ruoxi-jia-group/Meta-Sift)]
++ How to Sift Out a Clean Data Subset in the Presence of Data Poisoning? (USENIX 2023) [[paper](http://arxiv.org/abs/2210.06516)] [[code](https://github.com/ruoxi-jia-group/Meta-Sift)]
++ PORE: Provably Robust Recommender Systems against Data Poisoning Attacks (USENIX 2023) [[paper](https://arxiv.org/abs/2303.14601)] 
 
 ## 2022
 
