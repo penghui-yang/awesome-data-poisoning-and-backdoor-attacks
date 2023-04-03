@@ -30,6 +30,8 @@ A curated list of papers & resources linked to data poisoning, backdoor attacks 
 + Do Backdoors Assist Membership Inference Attacks? (arXiv 2023) [[paper](https://arxiv.org/abs/2303.12589)]
 + Black-box Backdoor Defense via Zero-shot Image Purification (arXiv 2023) [[paper](https://arxiv.org/abs/2303.12175)]
 + Influencer Backdoor Attack on Semantic Segmentation (arXiv 2023) [[paper](https://arxiv.org/abs/2303.12054)]
++ TrojViT: Trojan Insertion in Vision Transformers (arXiv 2023) [[paper](https://arxiv.org/abs/2208.13049)]
++ Mole Recruitment: Poisoning of Image Classifiers via Selective Batch Sampling (arXiv 2023) [[paper](https://arxiv.org/abs/2303.17080)] [[code](https://github.com/wisdeth14/MoleRecruitment)]
 </details>
 
 + Indiscriminate Poisoning Attacks on Unsupervised Contrastive Learning (ICLR 2023) [[paper](https://openreview.net/forum?id=f0a_dWEYg-Td)]
@@ -57,6 +59,7 @@ A curated list of papers & resources linked to data poisoning, backdoor attacks 
 + Single Image Backdoor Inversion via Robust Smoothed Classifiers (CVPR 2023) [[paper](https://arxiv.org/abs/2303.00215)] [[code](https://github.com/locuslab/smoothinv)]
 + Unlearnable Clusters: Towards Label-agnostic Unlearnable Examples (CVPR 2023) [[paper](https://arxiv.org/abs/2301.01217)] [[code](https://github.com/jiamingzhang94/Unlearnable-Clusters)]
 + Backdoor Defense via Adaptively Splitting Poisoned Dataset (CVPR 2023) [[paper](https://arxiv.org/abs/2303.12993)] [[code](https://github.com/KuofengGao/ASD)]
++ Detecting Backdoors During the Inference Stage Based on Corruption Robustness Consistency (CVPR 2023) [[paper](https://arxiv.org/abs/2303.18191)] [[code](https://github.com/CGCL-codes/TeCo)]
 + Don't FREAK Out: A Frequency-Inspired Approach to Detecting Backdoor Poisoned Samples in DNNs (CVPRW 2023) [[paper](https://arxiv.org/abs/2303.13211)]
 + Defending Against Backdoor Attacks by Layer-wise Feature Analysis (PAKDD 2023) [[paper](https://arxiv.org/abs/2302.12758)] [[code](https://github.com/NajeebJebreel/DBALFA)]
 + How to Sift Out a Clean Data Subset in the Presence of Data Poisoning? (USENIX 2023) [[paper](http://arxiv.org/abs/2210.06516)] [[code](https://github.com/ruoxi-jia-group/Meta-Sift)]
