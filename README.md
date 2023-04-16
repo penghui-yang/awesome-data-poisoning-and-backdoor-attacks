@@ -63,8 +63,8 @@ A curated list of papers & resources linked to data poisoning, backdoor attacks 
 + Defending Against Patch-based Backdoor Attacks on Self-Supervised Learning (CVPR 2023) [[paper](https://arxiv.org/abs/2304.01482)] [[code](https://github.com/UCDvision/PatchSearch)]
 + Don't FREAK Out: A Frequency-Inspired Approach to Detecting Backdoor Poisoned Samples in DNNs (CVPRW 2023) [[paper](https://arxiv.org/abs/2303.13211)]
 + Defending Against Backdoor Attacks by Layer-wise Feature Analysis (PAKDD 2023) [[paper](https://arxiv.org/abs/2302.12758)] [[code](https://github.com/NajeebJebreel/DBALFA)]
-+ How to Sift Out a Clean Data Subset in the Presence of Data Poisoning? (USENIX 2023) [[paper](http://arxiv.org/abs/2210.06516)] [[code](https://github.com/ruoxi-jia-group/Meta-Sift)]
-+ PORE: Provably Robust Recommender Systems against Data Poisoning Attacks (USENIX 2023) [[paper](https://arxiv.org/abs/2303.14601)] 
++ How to Sift Out a Clean Data Subset in the Presence of Data Poisoning? (USENIX Security 2023) [[paper](http://arxiv.org/abs/2210.06516)] [[code](https://github.com/ruoxi-jia-group/Meta-Sift)]
++ PORE: Provably Robust Recommender Systems against Data Poisoning Attacks (USENIX Security 2023) [[paper](https://arxiv.org/abs/2303.14601)] 
 
 ## 2022
 
@@ -80,7 +80,7 @@ A curated list of papers & resources linked to data poisoning, backdoor attacks 
 + Hidden Poison: Machine unlearning enables camouflaged poisoning attacks (NeurIPS 2022 Workshop MLSW) [[paper](https://openreview.net/forum?id=zml9gDnulI9)]
 + Hard to Forget: Poisoning Attacks on Certified Machine Unlearning (AAAI 2022) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20736)] [[code](https://github.com/ngmarchant/attack-unlearning)]
 + Certified Robustness of Nearest Neighbors against Data Poisoning and Backdoor Attacks (AAAI 2022) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/21191)]
-+ PoisonedEncoder: Poisoning the Unlabeled Pre-training Data in Contrastive Learning (USENIX 2022) [[paper](http://arxiv.org/abs/2205.06401)]
++ PoisonedEncoder: Poisoning the Unlabeled Pre-training Data in Contrastive Learning (USENIX Security 2022) [[paper](http://arxiv.org/abs/2205.06401)]
 + Planting Undetectable Backdoors in Machine Learning Models (FOCS 2022) [[paper](https://ieeexplore.ieee.org/abstract/document/9996741)]
 
 ## 2021
@@ -149,7 +149,7 @@ A curated list of papers & resources linked to data poisoning, backdoor attacks 
 + Using Trusted Data to Train Deep Networks on Labels Corrupted by Severe Noise (NeurIPS 2018) [[paper](https://arxiv.org/abs/1802.05300)]
 + Trojaning Attack on Neural Networks (NDSS 2018) [[paper](https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_03A-5_Liu_paper.pdf)] 
 + Label Sanitization Against Label Flipping Poisoning Attacks (ECML PKDD 2018 Workshops) [[paper](https://link.springer.com/chapter/10.1007/978-3-030-13453-2_1)]
-+ Turning Your Weakness Into a Strength: Watermarking Deep Neural Networks by Backdooring (USENIX 2018) [[paper](https://arxiv.org/abs/1802.04633)]
++ Turning Your Weakness Into a Strength: Watermarking Deep Neural Networks by Backdooring (USENIX Security 2018) [[paper](https://arxiv.org/abs/1802.04633)]
 
 ## 2017
 
