@@ -65,6 +65,7 @@ A curated list of papers & resources linked to data poisoning, backdoor attacks 
 + Defending Against Backdoor Attacks by Layer-wise Feature Analysis (PAKDD 2023) [[paper](https://arxiv.org/abs/2302.12758)] [[code](https://github.com/NajeebJebreel/DBALFA)]
 + How to Sift Out a Clean Data Subset in the Presence of Data Poisoning? (USENIX Security 2023) [[paper](http://arxiv.org/abs/2210.06516)] [[code](https://github.com/ruoxi-jia-group/Meta-Sift)]
 + PORE: Provably Robust Recommender Systems against Data Poisoning Attacks (USENIX Security 2023) [[paper](https://arxiv.org/abs/2303.14601)] 
++ Exploiting Logic Locking for a Neural Trojan Attack on Machine Learning Accelerators (GLSVLSI 2023) [[paper](https://arxiv.org/abs/2304.06017)]
 
 ## 2022
 
