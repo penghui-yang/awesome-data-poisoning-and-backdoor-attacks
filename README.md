@@ -32,6 +32,7 @@ A curated list of papers & resources linked to data poisoning, backdoor attacks 
 + Influencer Backdoor Attack on Semantic Segmentation (arXiv 2023) [[paper](https://arxiv.org/abs/2303.12054)]
 + TrojViT: Trojan Insertion in Vision Transformers (arXiv 2023) [[paper](https://arxiv.org/abs/2208.13049)]
 + Mole Recruitment: Poisoning of Image Classifiers via Selective Batch Sampling (arXiv 2023) [[paper](https://arxiv.org/abs/2303.17080)] [[code](https://github.com/wisdeth14/MoleRecruitment)]
++ Poisoning Web-Scale Training Datasets is Practical (arXiv 2023) [[paper](http://arxiv.org/abs/2302.10149)]
 </details>
 
 + Indiscriminate Poisoning Attacks on Unsupervised Contrastive Learning (ICLR 2023) [[paper](https://openreview.net/forum?id=f0a_dWEYg-Td)]
