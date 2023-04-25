@@ -33,6 +33,10 @@ A curated list of papers & resources linked to data poisoning, backdoor attacks 
 + TrojViT: Trojan Insertion in Vision Transformers (arXiv 2023) [[paper](https://arxiv.org/abs/2208.13049)]
 + Mole Recruitment: Poisoning of Image Classifiers via Selective Batch Sampling (arXiv 2023) [[paper](https://arxiv.org/abs/2303.17080)] [[code](https://github.com/wisdeth14/MoleRecruitment)]
 + Poisoning Web-Scale Training Datasets is Practical (arXiv 2023) [[paper](http://arxiv.org/abs/2302.10149)]
++ Enhancing Fine-Tuning Based Backdoor Defense with Sharpness-Aware Minimization [[paper](https://arxiv.org/abs/2304.11823)]
++ MAWSEO: Adversarial Wiki Search Poisoning for Illicit Online Promotion [[paper](https://arxiv.org/abs/2304.11300)]
++ Launching a Robust Backdoor Attack under Capability Constrained Scenarios [[paper](https://arxiv.org/abs/2304.10985)]
+
 </details>
 
 + Indiscriminate Poisoning Attacks on Unsupervised Contrastive Learning (ICLR 2023) [[paper](https://openreview.net/forum?id=f0a_dWEYg-Td)]
@@ -66,6 +70,7 @@ A curated list of papers & resources linked to data poisoning, backdoor attacks 
 + Defending Against Backdoor Attacks by Layer-wise Feature Analysis (PAKDD 2023) [[paper](https://arxiv.org/abs/2302.12758)] [[code](https://github.com/NajeebJebreel/DBALFA)]
 + How to Sift Out a Clean Data Subset in the Presence of Data Poisoning? (USENIX Security 2023) [[paper](http://arxiv.org/abs/2210.06516)] [[code](https://github.com/ruoxi-jia-group/Meta-Sift)]
 + PORE: Provably Robust Recommender Systems against Data Poisoning Attacks (USENIX Security 2023) [[paper](https://arxiv.org/abs/2303.14601)] 
++ BadGPT: Exploring Security Vulnerabilities of ChatGPT via Backdoor Attacks to InstructGPT (NDSS 2023) [[paper](https://arxiv.org/abs/2304.12298)]
 + Exploiting Logic Locking for a Neural Trojan Attack on Machine Learning Accelerators (GLSVLSI 2023) [[paper](https://arxiv.org/abs/2304.06017)]
 
 ## 2022
