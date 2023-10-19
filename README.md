@@ -32,7 +32,6 @@ A curated list of papers & resources linked to data poisoning, backdoor attacks 
 + Silent Killer: Optimizing Backdoor Trigger Yields a Stealthy and Powerful Data Poisoning Attack (arXiv 2023) [[code](https://arxiv.org/abs/2301.02615)]
 + Exploring the Limits of Indiscriminate Data Poisoning Attacks (arXiv 2023) [[paper](https://arxiv.org/abs/2303.03592)]
 + Students Parrot Their Teachers: Membership Inference on Model Distillation (arXiv 2023) [[paper](https://arxiv.org/abs/2303.03446)]
-+ CleanCLIP: Mitigating Data Poisoning Attacks in Multimodal Contrastive Learning (arXiv 2023) [[paper](https://arxiv.org/abs/2303.03323)]
 + More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models (arXiv 2023) [[paper](https://arxiv.org/abs/2302.12173)] [[code](https://github.com/greshake/llm-security)]
 + Feature Partition Aggregation: A Fast Certified Defense Against a Union of Sparse Adversarial Attacks (arXiv 2023) [[paper](https://arxiv.org/abs/2302.11628)] [[code](https://github.com/ZaydH/feature-partition)]
 + ASSET: Robust Backdoor Data Detection Across a Multiplicity of Deep Learning Paradigms (arXiv 2023) [[paper](https://arxiv.org/abs/2302.11408)] [[code](https://github.com/ruoxi-jia-group/ASSET)]
@@ -60,6 +59,10 @@ A curated list of papers & resources linked to data poisoning, backdoor attacks 
 
 </details>
 
+
+<details>
+<summary>ICLR</summary>
+
 + Indiscriminate Poisoning Attacks on Unsupervised Contrastive Learning (ICLR 2023) [[paper](https://openreview.net/forum?id=f0a_dWEYg-Td)]
 + Clean-image Backdoor: Attacking Multi-label Models with Poisoned Labels Only (ICLR 2023) [[paper](https://openreview.net/forum?id=rFQfjDC9Mt)]
 + TrojText: Test-time Invisible Textual Trojan Insertion (ICLR 2023) [[paper](https://openreview.net/forum?id=ja4Lpp5mqc2)] [[code](https://github.com/UCF-ML-Research/TrojText)]
@@ -77,6 +80,13 @@ A curated list of papers & resources linked to data poisoning, backdoor attacks 
 + Distilling Cognitive Backdoor Patterns within an Image (ICLR 2023) [[paper](https://openreview.net/forum?id=S3D9NLzjnQ5)] [[code](https://github.com/HanxunH/CognitiveDistillation)]
 + FLIP: A Provable Defense Framework for Backdoor Mitigation in Federated Learning (ICLR 2023) [[paper](https://openreview.net/forum?id=Xo2E217_M4n)] [[code](https://github.com/KaiyuanZh/FLIP)]
 + UNICORN: A Unified Backdoor Trigger Inversion Framework (ICLR 2023) [[paper](https://openreview.net/forum?id=Mj7K4lglGyj)] [[code](https://github.com/RU-System-Software-and-Security/UNICORN)]
+
+</details>
+
+
+<details>
+<summary>ICML</summary>
+
 + Poisoning Language Models During Instruction Tuning (ICML 2023) [[paper](https://arxiv.org/abs/2305.00944)] [[code](https://github.com/AlexWan0/Poisoning-Instruction-Tuned-Models)]
 + Chameleon: Adapting to Peer Images for Planting Durable Backdoors in Federated Learning (ICML 2023) [[paper](https://arxiv.org/abs/2304.12961)] [[code](https://github.com/ybdai7/Chameleon-durable-backdoor)]
 + Image Shortcut Squeezing: Countering Perturbative Availability Poisons with Compression (ICML 2023) [[paper](https://arxiv.org/abs/2301.13838)] [[code](https://github.com/liuzrcc/ImageShortcutSqueezing)]
@@ -94,7 +104,12 @@ A curated list of papers & resources linked to data poisoning, backdoor attacks 
 + Rethinking Backdoor Attacks (ICML 2023) [[paper](https://openreview.net/forum?id=V0ydUD8aW4)]
 + UMD: Unsupervised Model Detection for X2X Backdoor Attacks (ICML 2023) [[paper](https://arxiv.org/abs/2305.18651)]
 + LeadFL: Client Self-Defense against Model Poisoning in Federated Learning (ICML 2023) [[paper](https://openreview.net/forum?id=2CiaH2Tq4G)] [[code](https://github.com/chaoyitud/LeadFL)]
-+ RDM-DC: Poisoning Resilient Dataset Condensation with Robust Distribution Matching (UAI 2023) [[paper](https://openreview.net/forum?id=S5KslIBXt_)]
+
+</details>
+
+<details>
+<summary>CVPR</summary>
+
 + Backdoor Defense via Deconfounded Representation Learning (CVPR 2023) [[paper](https://arxiv.org/abs/2303.06818)] [[code](https://github.com/zaixizhang/CBD)]
 + Turning Strengths into Weaknesses: A Certified Robustness Inspired Attack Framework against Graph Neural Networks (CVPR 2023) [[paper](https://arxiv.org/abs/2303.06199)]
 + CUDA: Convolution-based Unlearnable Datasets (CVPR 2023) [[paper](https://arxiv.org/abs/2303.04278)] [[code](https://github.com/vinusankars/Convolution-based-Unlearnability)]
@@ -114,16 +129,41 @@ A curated list of papers & resources linked to data poisoning, backdoor attacks 
 + Progressive Backdoor Erasing via Connecting Backdoor and Adversarial Attacks (CVPR 2023) [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Mu_Progressive_Backdoor_Erasing_via_Connecting_Backdoor_and_Adversarial_Attacks_CVPR_2023_paper.html)]
 + You Are Catching My Attention: Are Vision Transformers Bad Learners Under Backdoor Attacks? (CVPR 2023) [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Yuan_You_Are_Catching_My_Attention_Are_Vision_Transformers_Bad_Learners_CVPR_2023_paper.html)]
 + Don't FREAK Out: A Frequency-Inspired Approach to Detecting Backdoor Poisoned Samples in DNNs (CVPRW 2023) [[paper](https://arxiv.org/abs/2303.13211)]
+
+</details>
+
+<details>
+<summary>ICCV</summary>
+
++ TIJO: Trigger Inversion with Joint Optimization for Defending Multimodal Backdoored Models (ICCV 2023) [[paper](https://arxiv.org/abs/2308.03906)] [[code](https://github.com/SRI-CSL/TIJO)]
 + Towards Attack-tolerant Federated Learning via Critical Parameter Analysis (ICCV 2023) [[paper](https://arxiv.org/abs/2308.09318)] [[code](https://github.com/Sungwon-Han/FEDCPA)]
 + VertexSerum: Poisoning Graph Neural Networks for Link Inference (ICCV 2023) [[paper](https://arxiv.org/abs/2308.01469)]
++ The Victim and The Beneficiary: Exploiting a Poisoned Model to Train a Clean Model on Poisoned Data (ICCV 2023) [[paper](http://openaccess.thecvf.com/content/ICCV2023/html/Zhu_The_Victim_and_The_Beneficiary_Exploiting_a_Poisoned_Model_to_ICCV_2023_paper.html)] [[code](https://github.com/Zixuan-Zhu/VaB)]
++ CleanCLIP: Mitigating Data Poisoning Attacks in Multimodal Contrastive Learning (arXiv 2023) [[paper](https://arxiv.org/abs/2303.03323)] [[code](https://github.com/nishadsinghi/CleanCLIP)]
++ Enhancing Fine-Tuning Based Backdoor Defense with Sharpness-Aware Minimization (ICCV2023) [[paper](https://arxiv.org/abs/2304.11823)]
++ Rickrolling the Artist: Injecting Backdoors into Text Encoders for Text-to-Image Synthesis (ICCV2023) [[paper](https://arxiv.org/abs/2211.02408)] [[code](https://github.com/LukasStruppek/Rickrolling-the-Artist)]
 + Beating Backdoor Attack at Its Own Game (ICCV 2023) [[paper](https://arxiv.org/abs/2307.15539)] [[code](https://github.com/damianliumin/non-adversarial_backdoor)]
-+ TIJO: Trigger Inversion with Joint Optimization for Defending Multimodal Backdoored Models (ICCV 2023) [[paper](https://arxiv.org/abs/2308.03906)] [[code](https://github.com/SRI-CSL/TIJO)]
++ Multi-Metrics Adaptively Identifies Backdoors in Federated Learning (ICCV2023) [[paper](https://arxiv.org/abs/2303.06601)] [[code](https://github.com/siquanhuang/Multi-metrics_against_backdoors_in_FL)]
++ PolicyCleanse: Backdoor Detection and Mitigation for Competitive Reinforcement Learning (ICCV2023) [[paper](https://arxiv.org/abs/2202.03609)]
++ The Perils of Learning from Unlabeled Data: Backdoor Attacks on Semi-Supervised Learning [[paper](https://arxiv.org/abs/2211.00453)]
+
+</details>
+
+<details>
+<summary>S&P</summary>
+
 + Jigsaw Puzzle: Selective Backdoor Attack to Subvert Malware Classifiers (S&P 2023) [[paper](https://arxiv.org/abs/2202.05470)]
 + SNAP: Efficient Extraction of Private Properties with Poisoning (S&P 2023) [[paper](https://arxiv.org/abs/2208.12348)] [[code](https://github.com/johnmath/snap-sp23)]
 + BayBFed: Bayesian Backdoor Defense for Federated Learning (S&P 2023) [[paper](https://arxiv.org/abs/2301.09508)]
 + RAB: Provable Robustness Against Backdoor Attacks (S&P 2023) [[paper](https://arxiv.org/abs/2003.08904)]
 + FedRecover: Recovering from Poisoning Attacks in Federated Learning using Historical Information (S&P 2023) [[paper](https://arxiv.org/abs/2210.10936)]
-+ 3DFed: Adaptive and Extensible Framework for Covert Backdoor Attack in Federated Learning [[paper](https://ieeexplore.ieee.org/document/10179401)]
++ 3DFed: Adaptive and Extensible Framework for Covert Backdoor Attack in Federated Learning (S&P 2023) [[paper](https://ieeexplore.ieee.org/document/10179401)]
+
+</details>
+
+<details>
+<summary>ACL</summary>
+
 + BITE: Textual Backdoor Attacks with Iterative Trigger Injection (ACL 2023) [[paper](https://aclanthology.org/2023.acl-long.725/)] [[code](https://github.com/INK-USC/BITE)]
 + Backdooring Neural Code Search (ACL 2023) [[paper](https://arxiv.org/abs/2305.17506)] [[code](https://github.com/wssun/BADCODE)]
 + Are You Copying My Model? Protecting the Copyright of Large Language Models for EaaS via Backdoor Watermark (ACL 2023) [[paper](https://arxiv.org/abs/2305.10036)] [[code](https://github.com/yjw1029/EmbMarker)]
@@ -132,6 +172,13 @@ A curated list of papers & resources linked to data poisoning, backdoor attacks 
 + A Gradient Control Method for Backdoor Attacks on Parameter-Efficient Tuning (ACL 2023) [[paper](https://aclanthology.org/2023.acl-long.194/)]
 + Defending against Insertion-based Textual Backdoor Attacks via Attribution (ACL 2023) [[paper](https://arxiv.org/abs/2305.02394)]
 + Diffusion Theory as a Scalpel: Detecting and Purifying Poisonous Dimensions in Pre-trained Language Models Caused by Backdoor or Bias (ACL 2023) [[paper](https://arxiv.org/abs/2305.04547)]
+
+</details>
+
+<details>
+<summary>Others</summary>
+
++ RDM-DC: Poisoning Resilient Dataset Condensation with Robust Distribution Matching (UAI 2023) [[paper](https://openreview.net/forum?id=S5KslIBXt_)]
 + Defending Against Backdoor Attacks by Layer-wise Feature Analysis (PAKDD 2023) [[paper](https://arxiv.org/abs/2302.12758)] [[code](https://github.com/NajeebJebreel/DBALFA)]
 + Manipulating Federated Recommender Systems: Poisoning with Synthetic Users and Its Countermeasures (SIGIR 2023) [[paper](https://arxiv.org/abs/2304.03054)]
 + The Dark Side of Explanations: Poisoning Recommender Systems with Counterfactual Examples (SIGIR 2023) [[paper](https://arxiv.org/abs/2305.00574)]
@@ -145,6 +192,8 @@ A curated list of papers & resources linked to data poisoning, backdoor attacks 
 + Exploiting Logic Locking for a Neural Trojan Attack on Machine Learning Accelerators (GLSVLSI 2023) [[paper](https://arxiv.org/abs/2304.06017)]
 + Energy-Latency Attacks to On-Device Neural Networks via Sponge Poisoning (SecTL 2023) [[paper](https://arxiv.org/abs/2305.03888)]
 + Beyond the Model: Data Pre-processing Attack to Deep Learning Models in Android Apps (SecTL 2023) [[paper](https://arxiv.org/abs/2305.03963)]
+
+</details>
 
 ## 2022
 
