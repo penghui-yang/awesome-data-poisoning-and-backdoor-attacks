@@ -172,6 +172,7 @@ A curated list of papers & resources linked to data poisoning, backdoor attacks 
 + A Gradient Control Method for Backdoor Attacks on Parameter-Efficient Tuning (ACL 2023) [[paper](https://aclanthology.org/2023.acl-long.194/)]
 + Defending against Insertion-based Textual Backdoor Attacks via Attribution (ACL 2023) [[paper](https://arxiv.org/abs/2305.02394)]
 + Diffusion Theory as a Scalpel: Detecting and Purifying Poisonous Dimensions in Pre-trained Language Models Caused by Backdoor or Bias (ACL 2023) [[paper](https://arxiv.org/abs/2305.04547)]
++ Maximum Entropy Loss, the Silver Bullet Targeting Backdoor Attacks in Pre-trained Language Models (ACL Findings 2023) [[paper](https://aclanthology.org/2023.findings-acl.237/)]
 
 </details>
 
