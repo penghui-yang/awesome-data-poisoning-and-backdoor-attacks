@@ -108,6 +108,34 @@ A curated list of papers & resources linked to data poisoning, backdoor attacks 
 </details>
 
 <details>
+<summary>NeurIPS</summary>
+
++ BadTrack: A Poison-Only Backdoor Attack on Visual Object Tracking (NeurIPS 2023) [[paper](https://openreview.net/forum?id=W9pJx9sFCh)]
++ ParaFuzz: An Interpretability-Driven Technique for Detecting Poisoned Samples in NLP (NeurIPS 2023) [[paper](https://openreview.net/forum?id=DD0QJvPbTD)] 
++ Robust Contrastive Language-Image Pretraining against Data Poisoning and Backdoor Attacks (NeurIPS 2023) [[paper](https://openreview.net/forum?id=ONwL9ucoYG)] [[code](https://github.com/BigML-CS-UCLA/RoCLIP)]
++ Neural Polarizer: A Lightweight and Effective Backdoor Defense via Purifying Poisoned Features (NeurIPS 2023) [[paper](https://openreview.net/forum?id=VFhN15Vlkj)] [[PyTorch code](https://github.com/SCLBD/BackdoorBench)] [[MindSpore Code](https://github.com/JulieCarlon/NPD-MindSpore)]
++ What Distributions are Robust to Indiscriminate Poisoning Attacks for Linear Learners? (NeurIPS 2023) [[paper](https://openreview.net/forum?id=yyLFUPNEiT)]
++ Label Poisoning is All You Need (NeurIPS 2023) [[paper](https://openreview.net/forum?id=prftZp6mDH)]
++ Hidden Poison: Machine Unlearning Enables Camouflaged Poisoning Attacks (NeurIPS 2023) [[paper](https://openreview.net/forum?id=Isy7gl1Hqc)] [[code](https://github.com/Jimmy-di/camouflage-poisoning)]
++ Temporal Robustness against Data Poisoning (NeurIPS 2023) [[paper](https://openreview.net/forum?id=P5vzRpoOj2)]
++ VillanDiffusion: A Unified Backdoor Attack Framework for Diffusion Models (NeurIPS 2023) [[paper](https://openreview.net/forum?id=wkIBfnGPTA)] [[code](https://github.com/IBM/villandiffusion)]
++ CBD: A Certified Backdoor Detector Based on Local Dominant Probability (NeurIPS 2023) [[paper](https://openreview.net/forum?id=H1CQZqpgdQ)]
++ BIRD: Generalizable Backdoor Detection and Removal for Deep Reinforcement Learning (NeurIPS 2023) [[paper](https://openreview.net/forum?id=l3yxZS3QdT)]
++ Fed-FA: Theoretically Modeling Client Data Divergence for Federated Language Backdoor Defense (NeurIPS 2023) [[paper](https://openreview.net/forum?id=txPdKZrrZF)]
++ Shared Adversarial Unlearning: Backdoor Mitigation by Unlearning Shared Adversarial Examples (NeurIPS 2023) [[paper](https://openreview.net/forum?id=zqOcW3R9rd)] [[PyTorch code](https://github.com/SCLBD/BackdoorBench)] [[MindSpore Code](https://github.com/shawkui/MindTrojan)]
++ IBA: Towards Irreversible Backdoor Attacks in Federated Learning (NeurIPS 2023) [[paper](https://openreview.net/forum?id=cemEOP8YoC)] [[code](https://github.com/sail-research/iba)]
++ Towards Stable Backdoor Purification through Feature Shift Tuning (NeurIPS 2023) [[paper](https://openreview.net/forum?id=8muKbaAgsh)] [[code](https://github.com/AISafety-HKUST/stable_backdoor_purification)]
++ Defending Pre-trained Language Models as Few-shot Learners against Backdoor Attacks (NeurIPS 2023) [[paper](https://openreview.net/forum?id=GqXbfVmEPW)] [[code](https://github.com/zhaohan-xi/PLM-prompt-defense)]
++ Lockdown: Backdoor Defense for Federated Learning with Isolated Subspace Training (NeurIPS 2023) [[paper](https://openreview.net/forum?id=V5cQH7JbGo)] [[code](https://github.com/git-disl/Lockdown)]
++ A3FL: Adversarially Adaptive Backdoor Attacks to Federated Learning (NeurIPS 2023) [[paper](https://openreview.net/forum?id=S6ajVZy6FA)] [[code](https://github.com/hfzhang31/A3FL)]
++ FedGame: A Game-Theoretic Defense against Backdoor Attacks in Federated Learning (NeurIPS 2023) [[paper](https://openreview.net/forum?id=nX0zYBGEka)] [[code](https://github.com/AI-secure/FedGame)]
++ A Unified Detection Framework for Inference-Stage Backdoor Defenses (NeurIPS 2023) [[paper](https://openreview.net/forum?id=4zWEyYGGfI)]
++ Black-box Backdoor Defense via Zero-shot Image Purification (NeurIPS 2023) [[paper](https://openreview.net/forum?id=W6U2xSbiE1)] [[code](https://github.com/sycny/ZIP)]
++ Setting the Trap: Capturing and Defeating Backdoors in Pretrained Language Models through Honeypots (NeurIPS 2023) [[paper](https://openreview.net/forum?id=2cYxNWNzk3)]
+
+</details>
+
+<details>
 <summary>CVPR</summary>
 
 + Backdoor Defense via Deconfounded Representation Learning (CVPR 2023) [[paper](https://arxiv.org/abs/2303.06818)] [[code](https://github.com/zaixizhang/CBD)]
@@ -207,7 +235,6 @@ A curated list of papers & resources linked to data poisoning, backdoor attacks 
 + Adversarial Unlearning of Backdoors via Implicit Hypergradient (ICLR 2022) [[paper](https://openreview.net/forum?id=MeeQkFYVbzW)] [[code](https://github.com/YiZeng623/I-BAU)]
 + Not All Poisons are Created Equal: Robust Training against Data Poisoning (ICML 2022) [[paper](https://proceedings.mlr.press/v162/yang22j.html)] [[code](https://github.com/YuYang0901/EPIC)]
 + Sleeper Agent: Scalable Hidden Trigger Backdoors for Neural Networks Trained from Scratch (NeurIPS 2022) [[paper](http://arxiv.org/abs/2106.08970)] [[code](https://github.com/hsouri/Sleeper-Agent)]
-+ Hidden Poison: Machine unlearning enables camouflaged poisoning attacks (NeurIPS 2022 Workshop MLSW) [[paper](https://openreview.net/forum?id=zml9gDnulI9)]
 + Policy Resilience to Environment Poisoning Attacks
   on Reinforcement Learning (NeurIPS 2022 Workshop MLSW) [[paper](https://arxiv.org/abs/2304.12151)]
 + Hard to Forget: Poisoning Attacks on Certified Machine Unlearning (AAAI 2022) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20736)] [[code](https://github.com/ngmarchant/attack-unlearning)]
