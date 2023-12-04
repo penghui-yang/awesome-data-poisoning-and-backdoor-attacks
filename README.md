@@ -204,6 +204,19 @@ A curated list of papers & resources linked to data poisoning, backdoor attacks 
 
 </details>
 
+
+<details>
+<summary>EMNLP</summary>
+
++ Mitigating Backdoor Poisoning Attacks through the Lens of Spurious Correlation (EMNLP 2023) [[paper](https://openreview.net/forum?id=vW3TFDUKWl)] [[code](https://github.com/xlhex/emnlp2023_z-defence)]
++ Prompt as Triggers for Backdoor Attack: Examining the Vulnerability in Language Models (EMNLP 2023) [[paper](https://openreview.net/forum?id=Ek87791lcO)] [[code](https://github.com/shuaizhao95/Prompt_attack)]
++ Poisoning Retrieval Corpora by Injecting Adversarial Passages (EMNLP 2023) [[paper](https://openreview.net/forum?id=8FgdMHbW27)] [[code](https://github.com/princeton-nlp/corpus-poisoning)]
++ UPTON: Preventing Authorship Leakage from Public Text Release via Data Poisoning (EMNLP 023 Findings) [[paper](https://openreview.net/forum?id=Fm0Brp3cTS)] 
++ Attention-Enhancing Backdoor Attacks Against BERT-based Models (EMNLP 023 Findings) [[paper](https://openreview.net/forum?id=L7IW2foTq4)]
++ Large Language Models Are Better Adversaries: Exploring Generative Clean-Label Backdoor Attacks Against Text Classifiers (EMNLP 023 Findings) [[paper](https://openreview.net/forum?id=DTELCDufzE)] 
+
+</details>
+
 <details>
 <summary>Others</summary>
 
