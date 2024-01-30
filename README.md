@@ -22,7 +22,28 @@ A curated list of papers & resources linked to data poisoning, backdoor attacks 
 
 + Test-Time Poisoning Attacks Against Test-Time Adaptation Models (S&P 2024) [[paper](https://arxiv.org/abs/2308.08505)] [[code](https://github.com/tianshuocong/TePA)]
 + LMSanitator: Defending Prompt-Tuning Against Task-Agnostic Backdoors (NDSS 2024) [[paper](https://arxiv.org/abs/2308.13904)]
-
++ Towards Faithful XAI Evaluation via Generalization-Limited Backdoor Watermark (ICLR 2024) [[paper](https://openreview.net/forum?id=cObFETcoeW)]
++ Towards Reliable and Efficient Backdoor Trigger Inversion via Decoupling Benign Features (ICLR 2024) [[paper](https://openreview.net/forum?id=Tw9wemV6cb)]
++ BaDExpert: Extracting Backdoor Functionality for Accurate Backdoor Input Detection (ICLR 2024) [[paper](https://openreview.net/forum?id=s56xikpD92)]
++ Backdoor Secrets Unveiled: Identifying Backdoor Data with Optimized Scaled Prediction Consistency (ICLR 2024) [[paper](https://openreview.net/forum?id=1OfAO2mes1)]
++ Adversarial Feature Map Pruning for Backdoor (ICLR 2024) [[paper](https://openreview.net/forum?id=IOEEDkla96)]
++ Safe and Robust Watermark Injection with a Single OoD Image (ICLR 2024) [[paper](https://openreview.net/forum?id=PCm1oT8pZI)]
++ Efficient Backdoor Attacks for Deep Neural Networks in Real-world Scenarios (ICLR 2024) [[paper](https://openreview.net/forum?id=vRyp2dhEQp)]
++ Backdoor Contrastive Learning via Bi-level Trigger Optimization (ICLR 2024) [[paper](https://openreview.net/forum?id=oxjeePpgSP)]
++ BadEdit: Backdooring Large Language Models by Model Editing (ICLR 2024) [[paper](https://openreview.net/forum?id=duZANm2ABX)]
++ Backdoor Federated Learning by Poisoning Backdoor-Critical Layers (ICLR 2024) [[paper](https://openreview.net/forum?id=AJBGSVSTT2)]
++ Poisoned Forgery Face: Towards Backdoor Attacks on Face Forgery Detection (ICLR 2024) [[paper](https://openreview.net/forum?id=8iTpB4RNvP)]
++ Influencer Backdoor Attack on Semantic Segmentation (ICLR 2024) [[paper](https://openreview.net/forum?id=VmGRoNDQgJ)]
++ Rethinking Backdoor Attacks on Dataset Distillation: A Kernel Method Perspective (ICLR 2024) [[paper](https://openreview.net/forum?id=iCNOK45Csv)]
++ Universal Backdoor Attacks (ICLR 2024) [[paper](https://openreview.net/forum?id=3QkzYBSWqL)]
++ Demystifying Poisoning Backdoor Attacks from a Statistical Perspective (ICLR 2024) [[paper](https://openreview.net/forum?id=BPHcEpGvF8)]
++ BadChain: Backdoor Chain-of-Thought Prompting for Large Language Models (ICLR 2024) [[paper](https://openreview.net/forum?id=c93SBwz1Ma)]
++ Rethinking CNN’s Generalization to Backdoor Attack from Frequency Domain (ICLR 2024) [[paper](https://openreview.net/forum?id=mYhH0CDFFa)]
++ Like Oil and Water: Group Robustness Methods and Poisoning Defenses Don't Mix (ICLR 2024) [[paper](https://openreview.net/forum?id=rM9VJPB20F)]
++ VDC: Versatile Data Cleanser for Detecting Dirty Samples via Visual-Linguistic Inconsistency (ICLR 2024) [[paper](https://openreview.net/forum?id=ygxTuVz9eU)]
++ Chameleon: Increasing Label-Only Membership Leakage with Adaptive Poisoning (ICLR 2024) [[paper](https://openreview.net/forum?id=4DoSULcfG6)]
++ Universal Jailbreak Backdoors from Poisoned Human Feedback (ICLR 2024) [[paper](https://openreview.net/forum?id=GxCGsxiAaK)]
++ Teach LLMs to Phish: Stealing Private Information from Language Models (ICLR 2024) [[paper](https://openreview.net/forum?id=qo21ZlfNu6)]
 
 ## 2023
 
