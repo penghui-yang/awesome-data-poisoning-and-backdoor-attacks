@@ -22,6 +22,8 @@ A curated list of papers & resources linked to data poisoning, backdoor attacks 
 
 + Test-Time Poisoning Attacks Against Test-Time Adaptation Models (S&P 2024) [[paper](https://arxiv.org/abs/2308.08505)] [[code](https://github.com/tianshuocong/TePA)]
 + LMSanitator: Defending Prompt-Tuning Against Task-Agnostic Backdoors (NDSS 2024) [[paper](https://arxiv.org/abs/2308.13904)]
+<details>
+<summary>ICLR</summary>
 + Towards Faithful XAI Evaluation via Generalization-Limited Backdoor Watermark (ICLR 2024) [[paper](https://openreview.net/forum?id=cObFETcoeW)]
 + Towards Reliable and Efficient Backdoor Trigger Inversion via Decoupling Benign Features (ICLR 2024) [[paper](https://openreview.net/forum?id=Tw9wemV6cb)]
 + BaDExpert: Extracting Backdoor Functionality for Accurate Backdoor Input Detection (ICLR 2024) [[paper](https://openreview.net/forum?id=s56xikpD92)]
@@ -44,6 +46,10 @@ A curated list of papers & resources linked to data poisoning, backdoor attacks 
 + Chameleon: Increasing Label-Only Membership Leakage with Adaptive Poisoning (ICLR 2024) [[paper](https://openreview.net/forum?id=4DoSULcfG6)]
 + Universal Jailbreak Backdoors from Poisoned Human Feedback (ICLR 2024) [[paper](https://openreview.net/forum?id=GxCGsxiAaK)]
 + Teach LLMs to Phish: Stealing Private Information from Language Models (ICLR 2024) [[paper](https://openreview.net/forum?id=qo21ZlfNu6)]
+</details>
+<details>
+
+<summary>CVPR</summary>
 + Data Poisoning based Backdoor Attacks to Contrastive Learning (CVPR 2024) [[paper](https://arxiv.org/abs/2211.08229)] [[code](https://github.com/jzhang538/CorruptEncoder)]
 + Adversarial Backdoor Attack by Naturalistic Data Poisoning on Trajectory Prediction in Autonomous Driving (CVPR 2024) [[paper](https://arxiv.org/abs/2306.15755)]
 + Semantic Shield: Defending Vision-Language Models Against Backdooring and Poisoning via Fine-grained Knowledge Alignment (CVPR 2024) 
@@ -51,10 +57,11 @@ A curated list of papers & resources linked to data poisoning, backdoor attacks 
 + Not All Prompts Are Secure: A Switchable Backdoor Attack against Pre-trained Models (CVPR 2024) 
 + Test-Time Backdoor Defense via Detecting and Repairing (CVPR 2024) [[paper](https://arxiv.org/abs/2308.06107)]
 + Nearest Is Not Dearest: Towards Practical Defense against Quantization-conditioned Backdoor Attacks (CVPR 2024) 
-+ LOTUS: Evasive and Resilient Backdoor Attacks through Sub-Partitioning (CVPR 2024) 
++ LOTUS: Evasive and Resilient Backdoor Attacks through Sub-Partitioning (CVPR 2024) [[paper](https://arxiv.org/abs/2403.17188)] [[code](https://github.com/Megum1/LOTUS)]
 + Temperature-based Backdoor Attacks on Thermal Infrared Object Detection (CVPR 2024) 
 + BadCLIP: Dual-Embedding Guided Backdoor Attack on Multimodal Contrastive Learning (CVPR 2024) [[paper](https://arxiv.org/abs/2311.12075)]
 + Re-thinking Data Availablity Attacks Against Deep Neural Networks (CVPR 2024) [[paper](https://arxiv.org/abs/2305.10691)]
+</details>
 
 ## 2023
 
