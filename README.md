@@ -63,6 +63,21 @@ A curated list of papers & resources linked to data poisoning, backdoor attacks 
 + Re-thinking Data Availablity Attacks Against Deep Neural Networks (CVPR 2024) [[paper](https://arxiv.org/abs/2305.10691)]
 </details>
 
+<details>
+<summary>NAACL</summary>
++ From Shortcuts to Triggers: Backdoor Defense with Denoised PoE (NAACL 2024) [[paper](https://arxiv.org/abs/2305.14910)] [[code](https://github.com/luka-group/DPoE)]
++ Two Heads are Better than One: Nested PoE for Robust Defense Against Multi-Backdoors (NAACL 2024) [[paper](https://arxiv.org/abs/2404.02356)] [[code](https://github.com/VictoriaGraf/Nested_PoE)]
++ ChatGPT as an Attack Tool: Stealthy Textual Backdoor Attack via Blackbox Generative Model Trigger (NAACL 2024) [[paper](https://arxiv.org/abs/2304.14475)]
++ Instructions as Backdoors: Backdoor Vulnerabilities of Instruction Tuning for Large Language Models (NAACL 2024) [[paper](https://arxiv.org/abs/2305.14710)]
++ PromptFix: Few-shot Backdoor Removal via Adversarial Prompt Tuning (NAACL 2024)
++ Backdoor Attacks on Multilingual Machine Translation (NAACL 2024) [[paper](https://arxiv.org/abs/2404.02393)]
++ Stealthy and Persistent Unalignment on Large Language Models via Backdoor Injections (NAACL 2024) [[paper](https://arxiv.org/abs/2312.00027)]
++ Backdooring Instruction-Tuned Large Language Models with Virtual Prompt Injection (NAACL 2024) [[paper](https://arxiv.org/abs/2307.16888)] [[code](https://github.com/wegodev2/virtual-prompt-injection)]
++ Composite Backdoor Attacks Against Large Language Models (NAACL 2024 Findings) [[paper](https://arxiv.org/abs/2310.07676)] [[code](https://github.com/MiracleHH/CBA)]
++ Task-Agnostic Detector for Insertion-Based Backdoor Attacks (NAACL 2024 Findings) [[paper](https://arxiv.org/abs/2403.17155)]
++ Defending Against Weight-Poisoning Backdoor Attacks for Parameter-Efficient Fine-Tuning (NAACL 2024 Findings) [[paper](https://arxiv.org/abs/2402.12168)]
+</details>
+
 ## 2023
 
 <details>
