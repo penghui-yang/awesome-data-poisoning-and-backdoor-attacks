@@ -22,8 +22,10 @@ A curated list of papers & resources linked to data poisoning, backdoor attacks 
 
 + Test-Time Poisoning Attacks Against Test-Time Adaptation Models (S&P 2024) [[paper](https://arxiv.org/abs/2308.08505)] [[code](https://github.com/tianshuocong/TePA)]
 + LMSanitator: Defending Prompt-Tuning Against Task-Agnostic Backdoors (NDSS 2024) [[paper](https://arxiv.org/abs/2308.13904)]
+
 <details>
 <summary>ICLR</summary>
+
 + Towards Faithful XAI Evaluation via Generalization-Limited Backdoor Watermark (ICLR 2024) [[paper](https://openreview.net/forum?id=cObFETcoeW)]
 + Towards Reliable and Efficient Backdoor Trigger Inversion via Decoupling Benign Features (ICLR 2024) [[paper](https://openreview.net/forum?id=Tw9wemV6cb)]
 + BaDExpert: Extracting Backdoor Functionality for Accurate Backdoor Input Detection (ICLR 2024) [[paper](https://openreview.net/forum?id=s56xikpD92)]
@@ -50,6 +52,7 @@ A curated list of papers & resources linked to data poisoning, backdoor attacks 
 <details>
 
 <summary>CVPR</summary>
+
 + Data Poisoning based Backdoor Attacks to Contrastive Learning (CVPR 2024) [[paper](https://arxiv.org/abs/2211.08229)] [[code](https://github.com/jzhang538/CorruptEncoder)]
 + Adversarial Backdoor Attack by Naturalistic Data Poisoning on Trajectory Prediction in Autonomous Driving (CVPR 2024) [[paper](https://arxiv.org/abs/2306.15755)]
 + Semantic Shield: Defending Vision-Language Models Against Backdooring and Poisoning via Fine-grained Knowledge Alignment (CVPR 2024) 
@@ -65,6 +68,7 @@ A curated list of papers & resources linked to data poisoning, backdoor attacks 
 
 <details>
 <summary>NAACL</summary>
+
 + From Shortcuts to Triggers: Backdoor Defense with Denoised PoE (NAACL 2024) [[paper](https://arxiv.org/abs/2305.14910)] [[code](https://github.com/luka-group/DPoE)]
 + Two Heads are Better than One: Nested PoE for Robust Defense Against Multi-Backdoors (NAACL 2024) [[paper](https://arxiv.org/abs/2404.02356)] [[code](https://github.com/VictoriaGraf/Nested_PoE)]
 + ChatGPT as an Attack Tool: Stealthy Textual Backdoor Attack via Blackbox Generative Model Trigger (NAACL 2024) [[paper](https://arxiv.org/abs/2304.14475)]
