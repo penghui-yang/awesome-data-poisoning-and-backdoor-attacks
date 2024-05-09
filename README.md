@@ -24,6 +24,7 @@ A curated list of papers & resources linked to data poisoning, backdoor attacks 
 
 <details>
 <summary>S&P</summary>
+
 + Poisoning Web-Scale Training Datasets is Practical (S&P 2024) [[paper](https://arxiv.org/abs/2302.10149)]
 + TrojanPuzzle: Covertly Poisoning Code-Suggestion Models (S&P 2024) [[paper](https://arxiv.org/abs/2301.02344)] [[code](https://github.com/microsoft/CodeGenerationPoisoning)]
 + FLShield: A Validation Based Federated Learning Framework to Defend Against Poisoning Attacks (S&P 2024) [[paper](https://arxiv.org/abs/2308.05832)] [[code]()]
@@ -45,6 +46,7 @@ A curated list of papers & resources linked to data poisoning, backdoor attacks 
 + BadVFL: Backdoor Attacks in Vertical Federated Learning (S&P 2024) [[paper](https://arxiv.org/abs/2304.08847)]
 + Backdooring Multimodal Learning (S&P 2024) [[paper](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a031/1RjEa7rmaxW)] [[code](https://github.com/multimodalbags/BAGS_Multimodal)]
 + Distribution Preserving Backdoor Attack in Self-supervised Learning (S&P 2024) [[paper](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a029/1RjEa5rjsHK)] [[code](https://github.com/Gwinhen/DRUPE)]
++ 
 </details>
 
 <details>
