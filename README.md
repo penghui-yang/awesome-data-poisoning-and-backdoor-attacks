@@ -20,33 +20,17 @@ A curated list of papers & resources linked to data poisoning, backdoor attacks 
 
 ## 2024
 
-+ LMSanitator: Defending Prompt-Tuning Against Task-Agnostic Backdoors (NDSS 2024) [[paper](https://arxiv.org/abs/2308.13904)]
-
 <details>
-<summary>S&P</summary>
+<summary>NDSS</summary>
 
-+ Poisoning Web-Scale Training Datasets is Practical (S&P 2024) [[paper](https://arxiv.org/abs/2302.10149)]
-+ TrojanPuzzle: Covertly Poisoning Code-Suggestion Models (S&P 2024) [[paper](https://arxiv.org/abs/2301.02344)] [[code](https://github.com/microsoft/CodeGenerationPoisoning)]
-+ FLShield: A Validation Based Federated Learning Framework to Defend Against Poisoning Attacks (S&P 2024) [[paper](https://arxiv.org/abs/2308.05832)] [[code]()]
-+ Poisoned ChatGPT Finds Work for Idle Hands: Exploring Developers' Coding Practices with Insecure Suggestions from Poisoned AI Models (S&P 2024) [[paper](https://arxiv.org/abs/2312.06227)]
-+ FlowMur: A Stealthy and Practical Audio Backdoor Attack with Limited Knowledge (S&P 2024) [[paper](https://arxiv.org/abs/2312.09665)] [[code](https://github.com/cristinalan/FlowMur)]
-+ Robust Backdoor Detection for Deep Learning via Topological Evolution Dynamics (S&P 2024) [[paper](https://arxiv.org/abs/2312.02673)] [[code](https://github.com/tedbackdoordefense/ted)]
-+ ODSCAN: Backdoor Scanning for Object Detection Models
- (S&P 2024) [[paper](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a119/1Ub23se6M5q)] [[code](https://github.com/Megum1/ODSCAN)]
-+ Nightshade: Prompt-Specific Poisoning Attacks on Text-to-Image Generative Models (S&P 2024) [[paper](https://arxiv.org/abs/2310.13828)] [[code]()]
-+ SHERPA: Explainable Robust Algorithms for Privacy-Preserved Federated Learning in Future Networks to Defend Against Data Poisoning Attacks (S&P 2024) [[paper](https://www.researchgate.net/publication/379653840_SHERPA_Explainable_Robust_Algorithms_for_Privacy-Preserved_Federated_Learning_in_Future_Networks_to_Defend_Against_Data_Poisoning_Attacks)]
-+ BAFFLE: Hiding Backdoors in Offline Reinforcement Learning Datasets (S&P 2024) [[paper](https://arxiv.org/abs/2210.04688)] [[code](https://github.com/2019ChenGong/Offline_RL_Poisoner/)]
-+ DeepVenom: Persistent DNN Backdoors Exploiting Transient Weight Perturbations in Memories (S&P 2024)
-+ Need for Speed: Taming Backdoor Attacks with Speed and Precision (S&P 2024)
-+ Exploring the Orthogonality and Linearity of Backdoor Attacks (S&P 2024)
-+ BELT: Old-School Backdoor Attacks can Evade the State-of-the-Art Defense with Backdoor Exclusivity Lifting (S&P 2024) [[paper](https://arxiv.org/abs/2312.04902)] [[code](https://github.com/JSun20220909/BELT)]
-+ Test-Time Poisoning Attacks Against Test-Time Adaptation Models (S&P 2024) [[paper](https://arxiv.org/abs/2308.08505)] [[code](https://github.com/tianshuocong/TePA)]
-+ MAWSEO: Adversarial Wiki Search Poisoning for Illicit Online Promotion (S&P 2024) [[paper](https://arxiv.org/abs/2304.11300)]
-+ MM-BD: Post-Training Detection of Backdoor Attacks with Arbitrary Backdoor Pattern Types Using a Maximum Margin Statistic (S&P 2024) [[paper](https://arxiv.org/abs/2205.06900)] [[code](https://github.com/wanghangpsu/MM-BD)]
-+ BadVFL: Backdoor Attacks in Vertical Federated Learning (S&P 2024) [[paper](https://arxiv.org/abs/2304.08847)]
-+ Backdooring Multimodal Learning (S&P 2024) [[paper](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a031/1RjEa7rmaxW)] [[code](https://github.com/multimodalbags/BAGS_Multimodal)]
-+ Distribution Preserving Backdoor Attack in Self-supervised Learning (S&P 2024) [[paper](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a029/1RjEa5rjsHK)] [[code](https://github.com/Gwinhen/DRUPE)]
-+ 
++ Automatic Adversarial Adaption for Stealthy Poisoning Attacks in Federated Learning (NDSS 2024) [[paper](https://www.ndss-symposium.org/ndss-paper/automatic-adversarial-adaption-for-stealthy-poisoning-attacks-in-federated-learning/)]
++ FreqFed: A Frequency Analysis-Based Approach for Mitigating Poisoning Attacks in Federated Learning (NDSS 2024) [[paper](https://www.ndss-symposium.org/ndss-paper/freqfed-a-frequency-analysis-based-approach-for-mitigating-poisoning-attacks-in-federated-learning/)]
++ CrowdGuard: Federated Backdoor Detection in Federated Learning (NDSS 2024) [[paper](https://www.ndss-symposium.org/ndss-paper/crowdguard-federated-backdoor-detection-in-federated-learning/)] [[code](https://github.com/TRUST-TUDa/crowdguard)]
++ LMSanitator: Defending Prompt-Tuning Against Task-Agnostic Backdoors (NDSS 2024) [[paper](https://www.ndss-symposium.org/ndss-paper/lmsanitator-defending-prompt-tuning-against-task-agnostic-backdoors/)] [[code](https://github.com/meng-wenlong/LMSanitator)]
++ Gradient Shaping: Enhancing Backdoor Attack Against Reverse Engineering (NDSS 2024) [[paper](https://www.ndss-symposium.org/ndss-paper/gradient-shaping-enhancing-backdoor-attack-against-reverse-engineering/)]
++ Sneaky Spikes: Uncovering Stealthy Backdoor Attacks in Spiking Neural Networks with Neuromorphic Data (NDSS 2024) [[paper](https://www.ndss-symposium.org/ndss-paper/sneaky-spikes-uncovering-stealthy-backdoor-attacks-in-spiking-neural-networks-with-neuromorphic-data/)] [[code](https://github.com/GorkaAbad/Sneaky-Spikes)]
++ TextGuard: Provable Defense against Backdoor Attacks on Text Classification (NDSS 2024) [[paper](https://www.ndss-symposium.org/ndss-paper/textguard-provable-defense-against-backdoor-attacks-on-text-classification/)] [[code](https://github.com/AI-secure/TextGuard)]
+
 </details>
 
 <details>
@@ -75,6 +59,37 @@ A curated list of papers & resources linked to data poisoning, backdoor attacks 
 + Universal Jailbreak Backdoors from Poisoned Human Feedback (ICLR 2024) [[paper](https://openreview.net/forum?id=GxCGsxiAaK)]
 + Teach LLMs to Phish: Stealing Private Information from Language Models (ICLR 2024) [[paper](https://openreview.net/forum?id=qo21ZlfNu6)]
 </details>
+
+
+<details>
+<summary>S&P</summary>
+
++ Poisoning Web-Scale Training Datasets is Practical (S&P 2024) [[paper](https://arxiv.org/abs/2302.10149)]
++ TrojanPuzzle: Covertly Poisoning Code-Suggestion Models (S&P 2024) [[paper](https://arxiv.org/abs/2301.02344)] [[code](https://github.com/microsoft/CodeGenerationPoisoning)]
++ FLShield: A Validation Based Federated Learning Framework to Defend Against Poisoning Attacks (S&P 2024) [[paper](https://arxiv.org/abs/2308.05832)] [[code]()]
++ Poisoned ChatGPT Finds Work for Idle Hands: Exploring Developers' Coding Practices with Insecure Suggestions from Poisoned AI Models (S&P 2024) [[paper](https://arxiv.org/abs/2312.06227)]
++ FlowMur: A Stealthy and Practical Audio Backdoor Attack with Limited Knowledge (S&P 2024) [[paper](https://arxiv.org/abs/2312.09665)] [[code](https://github.com/cristinalan/FlowMur)]
++ Robust Backdoor Detection for Deep Learning via Topological Evolution Dynamics (S&P 2024) [[paper](https://arxiv.org/abs/2312.02673)] [[code](https://github.com/tedbackdoordefense/ted)]
++ ODSCAN: Backdoor Scanning for Object Detection Models
+ (S&P 2024) [[paper](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a119/1Ub23se6M5q)] [[code](https://github.com/Megum1/ODSCAN)]
++ Nightshade: Prompt-Specific Poisoning Attacks on Text-to-Image Generative Models (S&P 2024) [[paper](https://arxiv.org/abs/2310.13828)] [[code]()]
++ SHERPA: Explainable Robust Algorithms for Privacy-Preserved Federated Learning in Future Networks to Defend Against Data Poisoning Attacks (S&P 2024) [[paper](https://www.researchgate.net/publication/379653840_SHERPA_Explainable_Robust_Algorithms_for_Privacy-Preserved_Federated_Learning_in_Future_Networks_to_Defend_Against_Data_Poisoning_Attacks)]
++ BAFFLE: Hiding Backdoors in Offline Reinforcement Learning Datasets (S&P 2024) [[paper](https://arxiv.org/abs/2210.04688)] [[code](https://github.com/2019ChenGong/Offline_RL_Poisoner/)]
++ DeepVenom: Persistent DNN Backdoors Exploiting Transient Weight Perturbations in Memories (S&P 2024)
++ Need for Speed: Taming Backdoor Attacks with Speed and Precision (S&P 2024)
++ Exploring the Orthogonality and Linearity of Backdoor Attacks (S&P 2024)
++ BELT: Old-School Backdoor Attacks can Evade the State-of-the-Art Defense with Backdoor Exclusivity Lifting (S&P 2024) [[paper](https://arxiv.org/abs/2312.04902)] [[code](https://github.com/JSun20220909/BELT)]
++ Test-Time Poisoning Attacks Against Test-Time Adaptation Models (S&P 2024) [[paper](https://arxiv.org/abs/2308.08505)] [[code](https://github.com/tianshuocong/TePA)]
++ MAWSEO: Adversarial Wiki Search Poisoning for Illicit Online Promotion (S&P 2024) [[paper](https://arxiv.org/abs/2304.11300)]
++ MM-BD: Post-Training Detection of Backdoor Attacks with Arbitrary Backdoor Pattern Types Using a Maximum Margin Statistic (S&P 2024) [[paper](https://arxiv.org/abs/2205.06900)] [[code](https://github.com/wanghangpsu/MM-BD)]
++ BadVFL: Backdoor Attacks in Vertical Federated Learning (S&P 2024) [[paper](https://arxiv.org/abs/2304.08847)]
++ Backdooring Multimodal Learning (S&P 2024) [[paper](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a031/1RjEa7rmaxW)] [[code](https://github.com/multimodalbags/BAGS_Multimodal)]
++ Distribution Preserving Backdoor Attack in Self-supervised Learning (S&P 2024) [[paper](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a029/1RjEa5rjsHK)] [[code](https://github.com/Gwinhen/DRUPE)]
++ 
+</details>
+
+
+
 <details>
 
 <summary>CVPR</summary>
