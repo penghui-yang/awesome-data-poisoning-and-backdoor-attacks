@@ -123,6 +123,28 @@ A curated list of papers & resources linked to data poisoning, backdoor attacks 
 + Defending Against Weight-Poisoning Backdoor Attacks for Parameter-Efficient Fine-Tuning (NAACL 2024 Findings) [[paper](https://arxiv.org/abs/2402.12168)]
 </details>
 
+<details>
+<summary>ICML</summary>
+
++ TERD: A Unified Framework for Backdoor Defense on Diffusion Model (ICML 2024)
++ Purifying Quantization-conditioned Backdoors via Layer-wise Activation Correction with Distribution Approximation (ICML 2024)
++ Energy-based Backdoor Defense without Task-Specific Samples and Model Retraining (ICML 2024)
++ IBD-PSC: Input-level Backdoor Detection via Parameter-oriented Scaling Consistency (ICML 2024)
++ A Theoretical Analysis of Backdoor Poisoning Attacks in Convolutional Neural Networks (ICML 2024)
++ SHINE: Shielding Backdoors in Deep Reinforcement Learning (ICML 2024)
++ Better Safe than Sorry: Pre-training CLIP against Targeted Data Poisoning and Backdoor Attacks (ICML 2024) [[paper](https://arxiv.org/abs/2310.05862)]
++ Generalization Bound and New Algorithm for Clean-Label Backdoor Attack (ICML 2024)
++ Privacy Backdoors: Stealing Data with Corrupted Pretrained Models (ICML 2024) [[paper](https://arxiv.org/abs/2404.00473)]
++ Defense against Backdoor Attack on Pre-trained Language Models via Head Pruning and Attention Normalization (ICML 2024)
++ Causality Based Front-door Denfence Against Backdoor Attack on Language Model (ICML 2024)
++ The Stronger the Diffusion Model, the Easier the Backdoor: Data Poisoning to Induce Copyright BreachesWithout Adjusting Finetuning Pipeline (ICML 2024) [[paper](https://arxiv.org/abs/2401.04136)] [[code](https://github.com/haonan3/SilentBadDiffusion)]
++ Perfect Alignment May be Poisonous to Graph Contrastive Learning (ICML 2024) [[paper](https://arxiv.org/abs/2310.03977)]
++ FedREDefense: Defending against Model Poisoning Attacks for Federated Learning using Model Update Reconstruction Error (ICML 2024)
++ Naive Bayes Classifiers over Missing Data: Decision and Poisoning (ICML 2024)
++ Data Poisoning Attacks against Conformal Prediction (ICML 2024)
+
+</details>
+
 ## 2023
 
 <details>
