@@ -98,9 +98,9 @@ A curated list of papers & resources linked to data poisoning, backdoor attacks 
 + Adversarial Backdoor Attack by Naturalistic Data Poisoning on Trajectory Prediction in Autonomous Driving (CVPR 2024) [[paper](https://arxiv.org/abs/2306.15755)]
 + Semantic Shield: Defending Vision-Language Models Against Backdooring and Poisoning via Fine-grained Knowledge Alignment (CVPR 2024) 
 + BrainWash: A Poisoning Attack to Forget in Continual Learning (CVPR 2024) [[paper](https://arxiv.org/abs/2311.11995)]
-+ Not All Prompts Are Secure: A Switchable Backdoor Attack against Pre-trained Models (CVPR 2024) 
++ Not All Prompts Are Secure: A Switchable Backdoor Attack against Pre-trained Models (CVPR 2024) [[code](https://github.com/20000yshust/SWARM)]
 + Test-Time Backdoor Defense via Detecting and Repairing (CVPR 2024) [[paper](https://arxiv.org/abs/2308.06107)]
-+ Nearest Is Not Dearest: Towards Practical Defense against Quantization-conditioned Backdoor Attacks (CVPR 2024) 
++ Nearest Is Not Dearest: Towards Practical Defense against Quantization-conditioned Backdoor Attacks (CVPR 2024) [[code](https://github.com/AntigoneRandy/QuantBackdoor_EFRAP)]
 + LOTUS: Evasive and Resilient Backdoor Attacks through Sub-Partitioning (CVPR 2024) [[paper](https://arxiv.org/abs/2403.17188)] [[code](https://github.com/Megum1/LOTUS)]
 + Temperature-based Backdoor Attacks on Thermal Infrared Object Detection (CVPR 2024) 
 + BadCLIP: Dual-Embedding Guided Backdoor Attack on Multimodal Contrastive Learning (CVPR 2024) [[paper](https://arxiv.org/abs/2311.12075)]
