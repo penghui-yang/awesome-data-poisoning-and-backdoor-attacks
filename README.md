@@ -145,6 +145,19 @@ A curated list of papers & resources linked to data poisoning, backdoor attacks 
 
 </details>
 
+<details>
+<summary>ACL</summary>
+
++ RLHFPoison: Reward Poisoning Attack for Reinforcement Learning with Human Feedback in Large Language Models (ACL 2024) [[paper](https://arxiv.org/abs/2311.09641)]
++ Acquiring Clean Language Models from Backdoor Poisoned Datasets by Downscaling Frequency Space (ACL 2024) [[paper](https://arxiv.org/abs/2402.12026)] [[code](https://github.com/ZrW00/MuScleLoRA)]
++ BadAgent: Inserting and Activating Backdoor Attacks in LLM Agents (ACL 2024) [[paper](https://arxiv.org/abs/2406.03007)] [[code](https://github.com/DPamK/BadAgent)]
++ WARDEN: Multi-Directional Backdoor Watermarks for Embedding-as-a-Service Copyright Protection (ACL 2024) [[paper](https://arxiv.org/abs/2403.01472)]
++ BadActs: A Universal Backdoor Defense in the Activation Space (ACL 2024 Findings) [[paper](https://arxiv.org/abs/2405.11227)] [[code](https://github.com/clearloveclearlove/BadActs)]
++ UOR: Universal Backdoor Attacks on Pre-trained Language Models (ACL 2024 Findings) [[paper](https://arxiv.org/abs/2305.09574)]
++ Here's a Free Lunch: Sanitizing Backdoored Models with Model Merge (ACL 2024 Findings) [[paper](https://arxiv.org/abs/2402.19334)] [[code](https://github.com/ansharora7/model-merge-backdoor)]
+
+</details>
+
 ## 2023
 
 <details>
