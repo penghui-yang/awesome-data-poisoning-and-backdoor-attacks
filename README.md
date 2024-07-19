@@ -2,6 +2,8 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+**Note:** This repository is no longer maintained as my interests have shifted to other areas. The latest update pertains to ACL 2024. However, contributions from others are welcome, and I encourage pull requests.
+
 > Disclaimer: This repository may not include all relevant papers in this area. Use at your own discretion and please contribute any missing or overlooked papers via pull request.
 
 A curated list of papers & resources linked to data poisoning, backdoor attacks and defenses against them.
